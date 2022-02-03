@@ -1,2 +1,2 @@
-# spdmls
+# spdml
 SPD Machine Learning
