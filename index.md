@@ -1,5 +1,12 @@
 # ΣΦΔ Practical Machine Learning
 
+## About
+
+This lecture, organized by ΣΦΔ, aims to introduce machine learning to students of diverse background and experiences. No prior machine learning experience is need, but rudimentary programming knowledge is required, preferably in Python. 
+
+We will be starting from the very basics, and finishing by covering advanced topics achieving state-of-the-art performance such as attention mechanisms and graph neural network.
+
+The lectures will be in-person to ease interaction between lecturers and attendees, and ensure that attendees have all their questions answered.
 
 ## Meeting Dates
 Bi-weekly meetings at 5:00PM. Refreshments to be provided. Meeting room TBD.
